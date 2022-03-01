@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uzziah
 - 👀 I’m interested in front-end development and laravel framework
 - 🌱 I’m currently learning on php object oriented
-- 💞️ I’m looking to collaborate on larevel projects and hosting website
+- 💞️ I’m looking to collaborate on laravel projects and hosting website
 - 📫 How to reach me: Call +22664974988/azakabore1@gmail.com /www.linkedin.com/in/uzziahkaboret
 
 <!---
